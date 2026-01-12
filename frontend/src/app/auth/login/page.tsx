@@ -53,7 +53,7 @@ const LoginPage = () => {
                 onChange={e => setEmail(e.target.value)}
                 disabled={loading}
                 className="flex-1 focus:outline-none disabled:opacity-50 bg-transparent"
-                placeholder="you@example.com"
+                placeholder="example.com"
               />
             </div>
           </div>
